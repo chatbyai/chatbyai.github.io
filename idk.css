@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+  }
+  
+  form {
+    margin: 20px;
+  }
+  
+  textarea {
+    width: 100%;
+    min-height: 100px;
+    margin-bottom: 20px;
+  }
+  
